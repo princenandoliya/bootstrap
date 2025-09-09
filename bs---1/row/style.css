@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 8px solid red;
+    height: 100%;
+}
+.row{
+    border: 5px solid black;
+    height: 100px;
+}
+#red{
+    height: 150px;
+}
+#red1{
+    height: 100px;
+}
+#red2{
+    height: 500px;
+}
+.col{
+    border: 4px solid green;
