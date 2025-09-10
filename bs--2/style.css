@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    /* border:  8px solid black; */
+    height: 100%;
+}
+.row{
+    width: 100%;
+    
+   
+}
+.col,
+.col-6,
+.col-4,
+.col-8{
+    /* border: 2px solid fuchsia; */
+    height: 100px;
+}
+.col-4 ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+
+}
+#heading{
+    background-color: rgba(0, 0, 255, 0.164);
+    text-align: center;
+}
+#nav{
+    height: 100%;
+    background-color: cornflowerblue;
+    
+
+}
+#sid{
+    height: 480px;
+    background-color: rgba(0, 255, 255, 0.274);
+    
+}
+#main{
+    height: 100%;
+    
+}
+#main1{
+    height: 100%;
+    background-color: rgba(127, 255, 212, 0.425);
+
+}
+#foot{
+    height: 100%;
+    background-color: rgba(165, 42, 42, 0.418);
+}
